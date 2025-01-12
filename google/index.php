@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Google Clone</title>
+    <title>hello google </title>
     <style>
         /* Styling for the page */
         body {
